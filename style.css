@@ -1,0 +1,41 @@
+
+.AddRowsButton{
+    text-align: center;
+    padding: 15px 55px;
+    font-size: 1.5em;
+    color: white;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    background-color: plum;
+    font-weight: bold;
+    cursor: pointer;
+}
+.first{
+    text-align: center;
+   
+
+}
+/* #list{
+    border: 1px solid;
+    
+} */
+
+
+.ForFlex{
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    border:  1px solid;
+    width: 36rem;
+    padding: 7px;
+}
+.ForFlex input{
+    margin-left: 10px;
+    padding: 15px;
+   
+}
+.RemoveBtn1{
+    width: 10rem;
+    cursor: pointer;
+    font-size: 1.5em;
+    margin-left: 10px;
+}
